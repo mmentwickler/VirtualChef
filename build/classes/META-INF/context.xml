@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+
+<Resource name="jdbc/virtualcheforacledb"
+
+auth="Container"
+
+type="javax.sql.DataSource"
+
+username="virtualchef"
+
+password="virtualchef"
+
+driverClassName="oracle.jdbc.OracleDriver"
+
+url="jdbc:oracle:thin:@localhost:1521:orcl"
+
+maxActive="100"
+
+maxIdle="30"/>
+
+</Context>
