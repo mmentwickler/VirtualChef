@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Context>
 
-<Resource name="jdbc/virtualcheforacledb"
+<Resource name="jdbc/dbname"
 
 auth="Container"
 
 type="javax.sql.DataSource"
 
-username="virtualchef"
+username="dbusername"
 
-password="virtualchef"
+password="dbpassword"
 
 driverClassName="oracle.jdbc.OracleDriver"
 
